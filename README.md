@@ -1,16 +1,22 @@
 # slerf-wall
 
-PFPs from all around the Slerfiverse
+PFPs from across the Slerfiverse
 
-## LICENSE
+## Add your own PFP
 
-All the images are owned by their respective owners/creators. 
-If you are the artist who made some of these PFPs please create 
-an issue and we will promote you here. 
+If you wish for your PFP to be featured on this wall, create an 
+issue and submit it. We are more than happy to include it.
+
+## License
+
+All images are owned by their respective owners or creators. 
+If you're the artist behind any of the profile pictures featured 
+here, please create an issue for acknowledgment, and we will 
+highlight your contribution.
 
 ## Artists
 
-**Not an exhaustive list**
+**This list is not exhaustive**
 
 - [petehodler](https://x.com/HodlerPete)
 - [nvneik.eth](https://x.com/nvneik)
