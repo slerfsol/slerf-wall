@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="assets/coin.png" />
 <title>Slerf Wall</title>
 <style>
   * {
@@ -73,23 +74,23 @@
 
   @media (max-width: 400px) {
     .photo-wall .img-container {
+      min-width: 50px;
+      max-width: 50px; 
+      height: 50px; 
+    }
+  }
+  @media (max-width: 600px) {
+    .photo-wall .img-container {
       min-width: 80px;
       max-width: 80px; 
       height: 80px; 
     }
   }
-  @media (max-width: 600px) {
-    .photo-wall .img-container {
-      min-width: 100px;
-      max-width: 100px; 
-      height: 100px; 
-    }
-  }
   @media (max-width: 1200px) {
     .photo-wall .img-container {
-      min-width: 175px;
-      max-width: 175px; 
-      height: 175px; 
+      min-width: 90px;
+      max-width: 90px; 
+      height: 90px; 
     }
   }
 </style>
@@ -138,7 +139,7 @@ function createPhotoWall(totalPhotos) {
 }
 
 // Example: Generate a photo wall with 10 images, randomized
-createPhotoWall(166);
+createPhotoWall(187);
 </script>
 
 </body>
