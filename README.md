@@ -4,8 +4,9 @@ PFPs from all around the Slerfiverse
 
 ## LICENSE
 
-All the images are owned by their respective owner. If you are the artist who made some of these PFPs
-please create an issue and we will promote you here. 
+All the images are owned by their respective owners/creators. 
+If you are the artist who made some of these PFPs please create 
+an issue and we will promote you here. 
 
 ## Artists
 
