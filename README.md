@@ -22,3 +22,4 @@ highlight your contribution.
 - [nvneik.eth](https://x.com/nvneik)
 - [𝐄𝐥𝐢𝐞𝐧𝐭](https://twitter.com/eelient747)
 - [NFTaki](https://twitter.com/yrbtaki)
+- [Kan0fPi](https://twitter.com/Kan0fPi)
