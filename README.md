@@ -20,4 +20,5 @@ highlight your contribution.
 
 - [petehodler](https://x.com/HodlerPete)
 - [nvneik.eth](https://x.com/nvneik)
-- [eelient747](https://twitter.com/eelient747)
+- [𝐄𝐥𝐢𝐞𝐧𝐭](https://twitter.com/eelient747)
+- [NFTaki ](https://twitter.com/yrbtaki)
