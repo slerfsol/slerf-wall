@@ -23,3 +23,4 @@ highlight your contribution.
 - [𝐄𝐥𝐢𝐞𝐧𝐭](https://twitter.com/eelient747)
 - [NFTaki](https://twitter.com/yrbtaki)
 - [Kan0fPi](https://twitter.com/Kan0fPi)
+- [Neko_Sol](https://twitter.com/henry2_o)
