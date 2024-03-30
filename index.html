@@ -76,25 +76,46 @@
     100% { transform: rotate(360deg); }
   }
 
-  @media (max-width: 400px) {
+  @media (max-width: 1280px) {
     .photo-wall .img-container {
-      min-width: 50px;
-      max-width: 50px; 
-      height: 50px; 
+      min-width: 100px;
+      max-width: 100px; 
+      height: 100px; 
     }
   }
   @media (max-width: 600px) {
     .photo-wall .img-container {
-      min-width: 80px;
-      max-width: 80px; 
-      height: 80px; 
+      min-width: 100px;
+      max-width: 100px; 
+      height: 100px; 
     }
   }
-  @media (max-width: 1200px) {
+  @media (max-width: 430px) {
     .photo-wall .img-container {
-      min-width: 90px;
-      max-width: 90px; 
-      height: 90px; 
+      min-width: 86px;
+      max-width: 86px; 
+      height: 86px; 
+    }
+  }
+  @media (max-width: 412px) {
+    .photo-wall .img-container {
+      min-width: 82px;
+      max-width: 82px; 
+      height: 82px; 
+    }
+  }  
+  @media (max-width: 400px) {
+    .photo-wall .img-container {
+      min-width: 78px;
+      max-width: 78px; 
+      height: 78px; 
+    }
+  }
+  @media (max-width: 360px) {
+    .photo-wall .img-container {
+      min-width: 70px;
+      max-width: 70px; 
+      height: 70px; 
     }
   }
 </style>
@@ -143,7 +164,7 @@ function createPhotoWall(totalPhotos) {
 }
 
 // Example: Generate a photo wall with 10 images, randomized
-createPhotoWall(262);
+createPhotoWall(309);
 </script>
 
 </body>
